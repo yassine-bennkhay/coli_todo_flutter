@@ -56,3 +56,6 @@ Then the ```Cubit```takes the responsibility to handle the ```state```, and upda
 ![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/nothing-done.png?raw=true)
 ![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/nothing-progress.png?raw=true)
 ![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/shimmer.png?raw=true)
+## Author
+
+- [@yassine-bennkhay](https://github.com/yassine-bennkhay)
