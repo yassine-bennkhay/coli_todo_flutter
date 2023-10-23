@@ -40,5 +40,13 @@ In the ```Repositories``` we get the ```Services``` responses and convert them t
 
 Then the ```Cubit```takes the responsibility to handle the ```state```, and updates the UI accordingly.
 ## Screenshots
-
 ![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/todos.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/add.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/update.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/done.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/details.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/confirm.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/progress.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/nothing-done.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/nothing-progress.png?raw=true)
+![App Screenshot](https://github.com/yassine-bennkhay/coli_todo_flutter/blob/main/screenshots/shimmer.png?raw=true)
