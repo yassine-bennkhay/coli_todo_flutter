@@ -1,6 +1,6 @@
 
 ## TODO APP Flutter.
-This application consumes this [NodeJS API](https://github.com/yassine-bennkhay/colicoli_todo_api), it allows you to create, update, delete, and read todos with different statuses, todo, in progress, and done.
+This application consumes this [NodeJS API](https://github.com/yassine-bennkhay/colicoli_todo_api), it allows you to create, update, delete, and read todos with different statues, todo, in progress, and done.
 
 Download the application from here:
 
